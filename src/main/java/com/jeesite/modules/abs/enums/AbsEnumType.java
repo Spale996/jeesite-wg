@@ -2,6 +2,8 @@ package com.jeesite.modules.abs.enums;
 
 public class AbsEnumType {
 	
+	//测试吧
+	
 	//税率
 	/** 无税*/
 	public static final Integer Taxrate0 = 0;

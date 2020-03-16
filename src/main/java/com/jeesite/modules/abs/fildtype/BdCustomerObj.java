@@ -14,6 +14,8 @@ public class BdCustomerObj {
 	
 	private static ThreadLocal<List<BdCustomer>> cache = new NamedThreadLocal<>("BdCustomerObj");
 	
+	//aaa
+	
 	/**
 	 * 获取对象值（导入）
 	 */
